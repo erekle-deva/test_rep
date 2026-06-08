@@ -1,0 +1,14 @@
+C:\Users\Erekle\Desktop\c#\item2\item2\bin\Debug\net10.0\item2.exe
+C:\Users\Erekle\Desktop\c#\item2\item2\bin\Debug\net10.0\item2.deps.json
+C:\Users\Erekle\Desktop\c#\item2\item2\bin\Debug\net10.0\item2.runtimeconfig.json
+C:\Users\Erekle\Desktop\c#\item2\item2\bin\Debug\net10.0\item2.dll
+C:\Users\Erekle\Desktop\c#\item2\item2\bin\Debug\net10.0\item2.pdb
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.AssemblyInfoInputs.cache
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.AssemblyInfo.cs
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.dll
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\refint\item2.dll
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.pdb
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\item2.genruntimeconfig.cache
+C:\Users\Erekle\Desktop\c#\item2\item2\obj\Debug\net10.0\ref\item2.dll

@@ -1,0 +1,14 @@
+C:\Users\Erekle\Desktop\c#\item_1\item_1\bin\Debug\net10.0\item_1.exe
+C:\Users\Erekle\Desktop\c#\item_1\item_1\bin\Debug\net10.0\item_1.deps.json
+C:\Users\Erekle\Desktop\c#\item_1\item_1\bin\Debug\net10.0\item_1.runtimeconfig.json
+C:\Users\Erekle\Desktop\c#\item_1\item_1\bin\Debug\net10.0\item_1.dll
+C:\Users\Erekle\Desktop\c#\item_1\item_1\bin\Debug\net10.0\item_1.pdb
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.AssemblyInfoInputs.cache
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.AssemblyInfo.cs
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.dll
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\refint\item_1.dll
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.pdb
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\item_1.genruntimeconfig.cache
+C:\Users\Erekle\Desktop\c#\item_1\item_1\obj\Debug\net10.0\ref\item_1.dll

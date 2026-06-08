@@ -1,0 +1,14 @@
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\bin\Debug\net10.0\Helloworld.exe
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\bin\Debug\net10.0\Helloworld.deps.json
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\bin\Debug\net10.0\Helloworld.runtimeconfig.json
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\bin\Debug\net10.0\Helloworld.dll
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\bin\Debug\net10.0\Helloworld.pdb
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.AssemblyInfo.cs
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.dll
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\refint\Helloworld.dll
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.pdb
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\Helloworld.genruntimeconfig.cache
+C:\Users\Erekle\DEsktop\c#\begin\Helloworld\obj\Debug\net10.0\ref\Helloworld.dll

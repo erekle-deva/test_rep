@@ -1,0 +1,14 @@
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\bin\Debug\net10.0\VariablesApp.exe
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\bin\Debug\net10.0\VariablesApp.deps.json
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\bin\Debug\net10.0\VariablesApp.runtimeconfig.json
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\bin\Debug\net10.0\VariablesApp.dll
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\bin\Debug\net10.0\VariablesApp.pdb
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.AssemblyInfoInputs.cache
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.AssemblyInfo.cs
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.dll
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\refint\VariablesApp.dll
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.pdb
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\VariablesApp.genruntimeconfig.cache
+C:\Users\Erekle\Desktop\c#\VariablesApp\VariablesApp\obj\Debug\net10.0\ref\VariablesApp.dll

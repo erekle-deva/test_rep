@@ -1,0 +1,1 @@
+C:\Users\Erekle\Desktop\c#\Guess_num\Guess_num.csproj;x64

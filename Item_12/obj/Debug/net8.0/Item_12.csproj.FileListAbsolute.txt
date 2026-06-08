@@ -1,0 +1,14 @@
+C:\Users\Erekle\desktop\c#\Item_12\bin\Debug\net8.0\Item_12.exe
+C:\Users\Erekle\desktop\c#\Item_12\bin\Debug\net8.0\Item_12.deps.json
+C:\Users\Erekle\desktop\c#\Item_12\bin\Debug\net8.0\Item_12.runtimeconfig.json
+C:\Users\Erekle\desktop\c#\Item_12\bin\Debug\net8.0\Item_12.dll
+C:\Users\Erekle\desktop\c#\Item_12\bin\Debug\net8.0\Item_12.pdb
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.AssemblyInfoInputs.cache
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.AssemblyInfo.cs
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.dll
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\refint\Item_12.dll
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.pdb
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\Item_12.genruntimeconfig.cache
+C:\Users\Erekle\desktop\c#\Item_12\obj\Debug\net8.0\ref\Item_12.dll

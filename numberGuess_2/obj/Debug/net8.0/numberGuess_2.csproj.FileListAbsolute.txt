@@ -1,0 +1,14 @@
+C:\Users\Erekle\Desktop\c#\numberGuess_2\bin\Debug\net8.0\numberGuess_2.exe
+C:\Users\Erekle\Desktop\c#\numberGuess_2\bin\Debug\net8.0\numberGuess_2.deps.json
+C:\Users\Erekle\Desktop\c#\numberGuess_2\bin\Debug\net8.0\numberGuess_2.runtimeconfig.json
+C:\Users\Erekle\Desktop\c#\numberGuess_2\bin\Debug\net8.0\numberGuess_2.dll
+C:\Users\Erekle\Desktop\c#\numberGuess_2\bin\Debug\net8.0\numberGuess_2.pdb
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.AssemblyInfoInputs.cache
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.AssemblyInfo.cs
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.dll
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\refint\numberGuess_2.dll
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.pdb
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\numberGuess_2.genruntimeconfig.cache
+C:\Users\Erekle\Desktop\c#\numberGuess_2\obj\Debug\net8.0\ref\numberGuess_2.dll

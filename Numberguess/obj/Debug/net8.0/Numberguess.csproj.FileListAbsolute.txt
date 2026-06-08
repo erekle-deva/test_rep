@@ -1,0 +1,14 @@
+C:\Users\Erekle\desktop\c#\Numberguess\bin\Debug\net8.0\Numberguess.exe
+C:\Users\Erekle\desktop\c#\Numberguess\bin\Debug\net8.0\Numberguess.deps.json
+C:\Users\Erekle\desktop\c#\Numberguess\bin\Debug\net8.0\Numberguess.runtimeconfig.json
+C:\Users\Erekle\desktop\c#\Numberguess\bin\Debug\net8.0\Numberguess.dll
+C:\Users\Erekle\desktop\c#\Numberguess\bin\Debug\net8.0\Numberguess.pdb
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.AssemblyInfoInputs.cache
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.AssemblyInfo.cs
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.csproj.CoreCompileInputs.cache
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.dll
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\refint\Numberguess.dll
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.pdb
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\Numberguess.genruntimeconfig.cache
+C:\Users\Erekle\desktop\c#\Numberguess\obj\Debug\net8.0\ref\Numberguess.dll
